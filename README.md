@@ -1,4 +1,11 @@
-# 5-Day Gen AI Intensive Course with Google – Learn Guide
+# 5-Day Gen AI Intensive Course with Google 
+
+![example workflow](https://github.com/fralfaro/5Day-GenAI-Google/actions/workflows/documentation.yml/badge.svg)
+<a href="https://fralfaro.github.io/5Day-GenAI-Google/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/📖 docs-link-brightgreen"></a>
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+
+
 
 <picture>
   <source srcset="docs/images/readme-dark.png" media="(prefers-color-scheme: dark)">

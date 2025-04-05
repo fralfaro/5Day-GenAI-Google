@@ -4,13 +4,7 @@ hide:
   - toc
 ---
 
-# 5-Day Gen AI Intensive Course with Google 
-
-Welcome to our **5-Day Gen AI Intensive Course with Google**!  
-This was a live event from **November 11–15, 2024**, now made available as a self-paced learning guide for anyone interested in learning the fundamental technologies and techniques behind Generative AI.
-
-> **Our 2025 new course is currently open for registration!**  
-> 👉 [Register here](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
+# Welcome to our 5-Day Gen AI Intensive Course with Google!
 
 
 ## Table of Contents
