@@ -39,3 +39,4 @@ Before diving into the daily assignments, follow these steps:
 3. **Join our [Kaggle Discord server](http://discord.gg/kaggle)**. Find official announcements in [#5dgai-general-chat](https://discord.gg/C8pKnH5K).  
    Link your Kaggle account to Discord [here](https://kaggle.com/discord/confirmation).
 
+
