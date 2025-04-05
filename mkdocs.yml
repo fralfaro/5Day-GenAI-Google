@@ -1,0 +1,150 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Project information
+site_name: 5-Day Gen AI Intensive Course with Google
+site_url: https://github.com/fralfaro/5Day-GenAI-Google
+site_author: Francisco Alfaro
+site_description:
+
+# Repository
+repo_name: fralfaro/30days-spanish
+repo_url: https://github.com/fralfaro/30days-spanish
+edit_uri: ''
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - neoteroi.cards
+  - neoteroi.timeline
+  - neoteroi.projects
+  - admonition
+  - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+
+# Theme
+theme:
+  name: material
+  language: es
+  logo: images/logo_01.png
+  favicon: images/logo_02.png
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: black
+    accent: amber
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  - navigation.tabs
+  - navigation.footer
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fralfaro
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/fralfaro
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/faam/
+    - icon: fontawesome/brands/kaggle
+      link: https://www.kaggle.com/faamds
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@fralfaro
+    - icon: fontawesome/solid/globe
+      link: https://fralfaro.github.io/portfolio/
+
+# Plugins
+plugins:
+  - mkdocs-jupyter:
+      kernel_name: python3
+  - search
+
+# Extra javascript
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+
+#TOC
+nav:
+    - 🏠 Home:
+        - index.md
+    - 📗 Day 1:
+        -  day_01/README.md
+        - 🎧 Podcast: 
+          -  day_01/podcast.md
+          -  day_01/podcast2.md
+        - 📄 Whitepaper:
+          -  day_01/whitepaper.md
+          -  day_01/whitepaper2.md
+        - 💻 Code Labs:
+          -  day_01/day-1-prompting.ipynb
+        - 🎥 Livestream: 
+          -  day_01/extras.md
+        
+    - 📘 Day 2:
+        -  day_02/README.md
+        - 🎧 Podcast: 
+          -  day_02/podcast.md
+        - 📄 Whitepaper:
+          -  day_02/whitepaper.md
+        - 💻 Code Labs:
+          -  day_02/day-2-document-q-a-with-rag.ipynb
+          -  day_02/day-2-embeddings-and-similarity-scores.ipynb
+          -  day_02/day-2-classifying-embeddings-with-keras.ipynb
+        - 🎥 Livestream: 
+          -  day_02/extras.md
+    - 📕 Day 3:
+        -  day_03/README.md
+        - 🎧 Podcast: 
+          -  day_03/podcast.md
+        - 📄 Whitepaper:
+          -  day_03/whitepaper.md
+        - 💻 Code Labs:
+          -  day_03/day-3-function-calling-with-the-gemini-api.ipynb
+          -  day_03/day-3-building-an-agent-with-langgraph.ipynb
+        - 🎥 Livestream: 
+          -  day_03/extras.md
+    - 📙 Day 4:
+        -  day_04/README.md
+        - 🎧 Podcast: 
+          -  day_04/podcast.md
+        - 📄 Whitepaper:
+          -  day_04/whitepaper.md
+        - 💻 Code Labs:
+          -  day_04/day-4-google-search-grounding.ipynb
+          -  day_04/day-4-fine-tuning-a-custom-model.ipynb
+        - 🎥 Livestream: 
+          -  day_04/extras.md
+    - 📓 Day 5:
+        -  day_05/README.md
+        - 🎧 Podcast: 
+          -  day_05/podcast.md
+        - 📄 Whitepaper:
+          -  day_05/whitepaper.md
+        - 🎥 Livestream: 
+          -  day_01/extras.md
