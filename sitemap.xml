@@ -2,130 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/__init__/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/day-1-prompting/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/extras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/podcast/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/podcast2/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/whitepaper/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_01/whitepaper2/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/day-2-classifying-embeddings-with-keras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/day-2-document-q-a-with-rag/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/day-2-embeddings-and-similarity-scores/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/extras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/podcast/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_02/whitepaper/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/day-3-building-an-agent-with-langgraph/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/day-3-function-calling-with-the-gemini-api/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/extras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/podcast/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_03/whitepaper/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/day-4-fine-tuning-a-custom-model/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/day-4-google-search-grounding/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/extras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/podcast/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_04/whitepaper/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_05/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_05/extras/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_05/podcast/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
     <url>
          <loc>https://github.com/fralfaro/5Day-GenAI-Google/day_05/whitepaper/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-11-11</lastmod>
     </url>
 </urlset>
