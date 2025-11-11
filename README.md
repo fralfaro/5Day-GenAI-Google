@@ -2,9 +2,6 @@
 
 ![example workflow](https://github.com/fralfaro/5Day-GenAI-Google/actions/workflows/documentation.yml/badge.svg)
 <a href="https://fralfaro.github.io/5Day-GenAI-Google/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/📖 docs-link-brightgreen"></a>
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]()
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
-
 
 
 <picture>
@@ -14,11 +11,14 @@
 
 <br>
 
-> **Our 2025 new course is currently open for registration!**  
-> 👉 [Register here](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
+> **Our 2025 new course is currently open for registration!**  👉👉👉 [Register here](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
 
 Welcome to our **5-Day Gen AI Intensive Course with Google**!  
 This was a live event from **November 11–15, 2024**, now made available as a self-paced learning guide for anyone interested in learning the fundamental technologies and techniques behind Generative AI.
+
+
+> ⚙️ **Note:** This repository is an *adapted version* of the original **5-Day Generative AI Intensive Course with Google**, customized for educational and self-learning purposes.
+
 
 ---
 
